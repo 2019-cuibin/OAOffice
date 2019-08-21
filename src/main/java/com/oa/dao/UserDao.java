@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface UserDao {
     /**
-     * 验证登录888
+     * 验证登录
      * @param user
      * @return
      */
